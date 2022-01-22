@@ -1,0 +1,46 @@
+.input-field-and-search-btn {
+	margin-top: 40px;
+}
+
+h1 {
+	margin-top: 20px;
+}
+
+h2 {
+	font-size: 30px;
+}
+
+h3 {
+	font-size: 100px;
+	padding-bottom: 0;
+}
+
+.present-day {
+	padding-left: 0;
+}
+
+.celsius-fahrenheit-btn {
+	font-size: 15px;
+	border-radius: 20px;
+	padding: 20px 15px;
+	background-color: rgb(0, 172, 34);
+	color: #fff;
+	border: solid 1px rgb(0, 172, 34);
+}
+
+.celsius-fahrenheit-btn:hover {
+	background-color: #fff;
+	color: rgb(0, 172, 34);
+	border: solid 1px rgb(0, 172, 34);
+	transition: all 200ms ease-in-out;
+	cursor: pointer;
+}
+
+.days-of-the-week {
+	margin-top: 40px;
+	font-size: 25px;
+}
+
+.temperatures {
+	font-size: 20px;
+}
